@@ -69,7 +69,7 @@ const HeaderSidebar = ({ isOpenModel, handleModel, categories }) => {
                 <div className="w-full px-5 my-2 mx-auto">
                     <ul className="flex flex-wrap justify-start gap-5 items-center">
                         <li className="bg-light p-2 rounded">
-                            <a target="_blank" href="https://www.facebook.com/ma3llim/" onClick={handleModel} aria-label="Visit My Facebook">
+                            <a target="_blank" href="https://www.facebook.com/ma3llim007/" onClick={handleModel} aria-label="Visit My Facebook">
                                 <FaFacebook className="font-bold text-xl" />
                             </a>
                         </li>
