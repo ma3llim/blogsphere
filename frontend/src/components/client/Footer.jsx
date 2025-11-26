@@ -5,7 +5,7 @@ import { currentYear } from "@/utils/utils";
 import logo from "../../assets/client/logo-white.svg";
 
 const socialLinks = [
-    { href: "https://www.facebook.com/Ma3llim007/", icon: <FaFacebook />, label: "Facebook" },
+    { href: "https://www.facebook.com/ma3llim/", icon: <FaFacebook />, label: "Facebook" },
     { href: "https://x.com/ma_3llim_007", icon: <FaTwitter />, label: "Twitter" },
     { href: "https://www.instagram.com/ma_3llim_007/", icon: <FaInstagram />, label: "Instagram" },
     { href: "https://www.linkedin.com/in/mohdsameer-dev/", icon: <FaLinkedinIn />, label: "LinkedIn" },

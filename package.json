@@ -2,8 +2,8 @@
     "name": "blogsphere",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "https://github.com/ma3llim007/blogsphere.git",
-    "author": "ma3llim007 <mohdsameer68257@gmail.com>",
+    "repository": "https://github.com/ma3llim/blogsphere.git",
+    "author": "ma3llim <mohdsameer68257@gmail.com>",
     "license": "MIT",
     "scripts": {
         "frontend": "cd frontend && yarn run dev",
